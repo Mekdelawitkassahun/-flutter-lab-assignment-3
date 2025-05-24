@@ -1,3 +1,8 @@
+Name: Mekdelawit kassahun
+section 2
+ID: UGR/7097/15
+
+
 # Album List
 
 A Flutter application that displays a list of albums and their photos using the JSONPlaceholder API. The app demonstrates clean architecture, state management, and modern Flutter theming.
